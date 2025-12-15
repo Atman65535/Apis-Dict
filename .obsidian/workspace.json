@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e4c55d1fa0b65b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f73023390a82cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "547b338c1bcacf75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/torch/random.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "random"
+            }
+          },
+          {
+            "id": "8bfe560ac3813661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/misc/HTML in Md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML in Md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a80565211f130b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f74bfa61f461945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30569243e54519c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "239f03b8ff197a19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ANSI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "517f4143f4bfd7f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ead7dc529bdab646",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d580be71ab9b81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2033e66419bed058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API/torch/torch.enable_grad().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for torch.enable_grad()"
+            }
+          },
+          {
+            "id": "f074f867fde77886",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "API/torch/torch.enable_grad().md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from torch.enable_grad()"
+            }
+          },
+          {
+            "id": "5ba345246bcffd56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "32e55449fded41d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "API/torch/torch.enable_grad().md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of torch.enable_grad()"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "30569243e54519c6",
+  "lastOpenFiles": [
+    "API/torch/random.md",
+    "API/misc/HTML in Md.md",
+    "API/torch/torch.enable_grad().md",
+    "API/torch/tensor.distribution.md",
+    "API/torch/Check Device.md",
+    "API/torch/torch.device.md",
+    "API/misc/ANSI Color code.md",
+    "API/torch/tensor.chunk().md",
+    "API/misc",
+    "Welcome.md",
+    "API/torch/torch.enable_grad()",
+    "API/torch",
+    "API"
+  ]
+}

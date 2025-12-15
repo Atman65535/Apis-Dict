@@ -1,0 +1,11 @@
+# Obsidian workspace & cache
+.obsidian/workspace*
+.obsidian/cache
+
+
+.DS_Store
+Thumbs.db
+*.swp 
+*.bak
+*.tmp
+
